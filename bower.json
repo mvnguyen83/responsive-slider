@@ -1,0 +1,26 @@
+{
+  "name": "responsive-slider",
+  "description": "Responsive hero slider",
+  "main": "index.html",
+  "authors": [
+    "mvnguyen83@gmail.com"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "slick",
+    "slider",
+    "jquery",
+    "responsive"
+  ],
+  "homepage": "mvnguyen.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "slick-carousel": "slick.js#^1.6.0"
+  }
+}

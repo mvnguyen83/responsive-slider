@@ -1,0 +1,68 @@
+body {
+  color: $grayDark;
+  font-family: $baseFontFamily;
+  font-size: $baseFontSize;
+  line-height: $baseLineHeight;
+  margin: 0;
+}
+a {
+  color: $linkColor;
+  text-decoration: none;
+  transition: color 300ms $pageTrans;
+  &:hover {
+    color: $linkColorHover;
+  }
+}
+
+strong  { font-weight: bold; }
+em      { font-style: italic; }
+cite    { font-style: normal; }
+
+h1, h2, h3, h4, h5, h6 {
+  color: $headingsColor;
+  font-family: $headingsFontFamily;
+  line-height: 1.2;
+  text-rendering: optimizelegibility;
+}
+
+h1 {
+  font-size: 30px;
+}
+h2 {
+  font-size: 24px;
+}
+h3 {
+  font-size: 18px;
+}
+h4 {
+  font-size: 16px;
+}
+h5 {
+  font-size: 15px;
+}
+h6 {
+  font-size: 14px;
+}
+
+p, ul {
+  margin: 0 0 20px;
+}
+
+// Hide the text and show an image
+%textToImg {
+  display: block;
+  overflow: hidden;
+  text-indent: -9999px;
+}
+
+// Hide only visually, but have it available for screenreaders: h5bp.com
+.visuallyhidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}

@@ -1,0 +1,8 @@
+{
+	"slides": [
+		{"id": 1, "title": "Responsive Custom Slider", "headline": "Full Screen", "brief": "Developed by <a href=\"http://www.mvnguyen.com\">Michael V Nguyen</a><br>Seen on <a href=\"http://www.onu.edu/\" target=\"blank\">Ohio Northern University</a>", "imgSrc": "https://source.unsplash.com/category/nature/1400x900"},
+		{"id": 2, "title": "Slick.JS", "headline": "The last carousel", "brief": "Built with <a href=\"http://kenwheeler.github.io/slick/\" target=\"blank\">slick.js</a>", "imgSrc": "https://source.unsplash.com/category/food/1400x900"},
+		{"id": 3, "title": "Jquery &amp; Ajax", "headline": "CSS3 Animation", "brief": "Developed with all above", "imgSrc": "https://source.unsplash.com/category/objects/1400x900"},
+		{"id": 4, "title": "My Github", "headline": "For more details", "brief": "Please visit <a href=\"https://github.com/mvnguyen83\" target=\"blank\">here</a>", "imgSrc": "https://source.unsplash.com/category/people/1400x900"}
+	]
+}

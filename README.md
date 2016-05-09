@@ -1,5 +1,5 @@
 # Responsive Hero Slider
-
+Live Demo: <a href="http://mvnguyen.com/responsive-slider/">mvnguyen.com</a>
 Used on <a href="http://www.onu.edu/">Ohio Northern University</a>
 
 ## Dependencies
